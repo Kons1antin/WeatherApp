@@ -1,0 +1,11 @@
+year_position = 0  # на данной позиции находится год в файле csv
+position_za_year = 13
+average_value_for_the_year_all_pos = 14
+average_value_for_the_year_pos = 15
+mediana_pos = 16
+width = 20
+longitude = 21
+altitude_above_sea_level = 22
+country = 17
+region = 18
+station = 19
